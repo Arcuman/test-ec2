@@ -1,0 +1,22 @@
+{
+  "name": "test-ec2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arcuman/test-ec2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arcuman/test-ec2/issues"
+  },
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "homepage": "https://github.com/Arcuman/test-ec2#readme"
+}
